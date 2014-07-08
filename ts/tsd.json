@@ -1,0 +1,15 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "mousetrap/mousetrap.d.ts": {
+      "commit": "58013fe12bd744ea28311e40e6adbc7e0f9da4ee"
+    },
+    "tween.js/tween.js.d.ts": {
+      "commit": "58013fe12bd744ea28311e40e6adbc7e0f9da4ee"
+    }
+  }
+}

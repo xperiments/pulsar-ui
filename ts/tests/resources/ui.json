@@ -1,0 +1,56 @@
+{"frames": {
+
+"simple-button-down.png":
+{
+	"frame": {"x":2,"y":162,"w":154,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":78},
+	"sourceSize": {"w":154,"h":78}
+},
+"simple-button-over.png":
+{
+	"frame": {"x":2,"y":82,"w":154,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":78},
+	"sourceSize": {"w":154,"h":78}
+},
+"simple-button-up.png":
+{
+	"frame": {"x":2,"y":2,"w":154,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":78},
+	"sourceSize": {"w":154,"h":78}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "ui.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c39fe2170dc75c9f6a1037c451b5cc5e$"
+},
+	"pulsarui":
+	{
+		"simplebutton":
+		{
+			"simple-button-down.png":{
+				"scaleMode":1,
+				"scaleGrid":{"x":0,"y":0,"w":154,"h":78}
+			},
+			"simple-button-over.png":{
+				"scaleMode":1,
+				"scaleGrid":{"x":0,"y":0,"w":154,"h":78}
+			},
+			"simple-button-up.png":{
+				"scaleMode":1,
+				"scaleGrid":{"x":0,"y":0,"w":154,"h":78},
+				"style":{"font":"30px Arial","fill":"#FFFFFF"}
+			}
+		}
+
+	}
+}
